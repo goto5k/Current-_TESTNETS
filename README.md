@@ -19,3 +19,4 @@ Networks and blockchains we are currently testing
 16. [Oasys](https://github.com/goto5k/Current-_TESTNETS/blob/main/README.md)
 17. [Celestia](https://celestia.explorers.guru/validators)
 18. [Aura](https://halo.aurascan.io/validators/)
+19. [Umee](https://leaderboard.umee.cc/) goto5k 
