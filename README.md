@@ -1,4 +1,4 @@
-# NOW_TESTNETS
+# Current_TESTNETS
 Networks and blockchains we are currently testing  
 
 1. [SOLANA](https://www.validators.app/validators/Bo9T1z62GVKmnttMz4HxPPtRXs2BUkAd7T7yUsKyG4iA?locale=en&network=testnet&order=&refresh=)
