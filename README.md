@@ -13,3 +13,9 @@ Networks and blockchains we are currently testing
 10. [Ironfish](https://testnet.ironfish.network/leaderboard) goto5k
 11. [Starknet](https://discord.com/channels/793094838509764618/948559061685796894/956090370154963014)
 12. [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1q6j3yrfaemrmakwkk508q89s4ccyvs5ff3vhar)
+13. [Massa](https://github.com/goto5k/Current-_TESTNETS/blob/main/README.md)
+14. [Masa](https://github.com/goto5k/Current-_TESTNETS/blob/main/README.md)
+15. [Sui](https://github.com/goto5k/Current-_TESTNETS/blob/main/README.md)
+16. [Oasys](https://github.com/goto5k/Current-_TESTNETS/blob/main/README.md)
+17. [Celestia](https://celestia.explorers.guru/validators)
+18. [Aura](https://halo.aurascan.io/validators/)
