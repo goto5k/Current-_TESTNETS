@@ -20,3 +20,9 @@ Networks and blockchains we are currently testing
 17. [Celestia](https://celestia.explorers.guru/validators)
 18. [Aura](https://halo.aurascan.io/validators/)
 19. [Umee](https://leaderboard.umee.cc/) goto5k 
+20. [SUI]
+21. [Aptos]
+22. [StarkNet]
+23. [KYVE]
+24. [AURA]
+25. [Near]
