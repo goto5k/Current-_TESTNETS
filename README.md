@@ -26,3 +26,4 @@ Networks and blockchains we are currently testing
 23. [KYVE]
 24. [AURA]
 25. [Near]
+26. [Blast Houston Testnet](https://houston.blastapi.io/houston-testnet) 
